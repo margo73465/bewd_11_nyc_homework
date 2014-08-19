@@ -1,0 +1,14 @@
+
+<% if current_user.itineraries.empty? %>
+  <h1>You have no saved itineraries</h1>
+<% else %>
+  <h1>Here are your itineraries:</h1>
+
+  <table>
+  <% current_user.itineraries.each do |itinerary| %>
+
+  <ul><li> <%= link_to "#{itinerary.name}", "/itineraries/#{itinerary.id}" %> </li></ul>
+
+  <% end %>
+<% end %>
+<%= button_to "Create new itinerary!", new_itinerary_path, method: :get %> 

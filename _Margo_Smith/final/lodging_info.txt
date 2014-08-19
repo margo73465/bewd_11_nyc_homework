@@ -1,0 +1,210 @@
+DC	C&O	0	3 mi E	Adams Inn B&B	1746 Lanier Place NW	202-745-3600
+DC	C&O	0	2 mi NW	Dupont at the Circle	1604 19th St NW	202-332-5251
+DC	C&O	0	1.5 mi	Hotel Lombardy	2019 Pennsylvania Ave NW	202-828-2600
+DC	C&O	0	2 mi NW	Inn at Dupont Circle	1312 19th St NW	202-467-6777
+DC	C&O	0	5.5 mi	International Guest House	1441 Kennedy St NW	202-726-5808
+DC	C&O	0	1.1 mi S	Marriott - Key Bridge	1401 Lee Hwy	703-524-6400
+DC	C&O	0	2.3 mi W	Tabard Inn	1739 N St NW	202-785-1277
+DC	C&O	0	1.5 mi NE	Washington International Hostel	1009 11th St NW	202-737-2333
+Georgetown	C&O	0.5	3 blocks	Four Seasons Hotel	2800 Pennsylvania Av NW	202-342-0444
+Georgetown	C&O	0.5	4 blocks	Georgetown Inn	1310 Wisconsin Av	
+Georgetown	C&O	0.5	backs on trail	Georgetown Suites	1111 30th St NW	202-298-7800
+Georgetown	C&O	0.5	1 block	Georgetown Suites/Harbor Bldg	1000 29th St NW	202-298-7800
+Georgetown	C&O	0.5	1.5 mi W	Inn of Rosslyn	1601 Arlington Blvd	703-524-3400
+Georgetown	C&O	0.5	backs on trail	Melrose Hotel	2430 Pennsylvania Av NW	202-955-6400
+Georgetown	C&O	0.5	3 blocks	Monticello Hotel	1075 Thomas Jefferson St NW	202-337-0900
+Georgetown	C&O	0.5	5 blocks	River Inn	924 25th St NW	202-337-7600
+Georgetown	C&O	0.5	8 blocks	St Gregory	2033 M st NW	202-530-3600
+Georgetown	C&O	0.5	5 blocks	St James	950 24th St NW	202-457-0500
+Georgetown	C&O	0.5	backs on trail	The Latham	3000 M St NW	202-726-5000
+Georgetown	C&O	0.5	3 blocks	Washington Monarch Hotel	2301 M St NW	202-429-2400
+Georgetown	C&O	0.5	2 blocks	Washington Suites at Georgetown	2500 Pennsylvania Av NW	202-333-8060
+Fletcher's Boat House	C&0	3.1	4 mi on trail	American Inn of Bethesda	8130 Wisconsin Av	301-656-9300	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 mi on trail	Bethesda Court Hotel	7740 Wisconsin Ave	301-656-2100	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 mi on trail	DoubletreeHotel Bethesda	8120 Wisconsin Av	301-652-2000	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 miles on trail	Hilton Garden Inn - Bethesda	7301 Waverly St	301-654-8111	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 mi on trail	Hyatt Regency Bethesda	One Bethesda Metro Center	301-657-1234	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 mi on trail	Lucy's Bed and Breakfast	9203 Wadsworth Dr	301-530-7256	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 mi on trail	Ramada Hotel - Bethesda	8400 Wisconsin Av	301-654-1000	take Capital Crescent trail 4mi to Bethesda
+Fletcher's Boat House	C&0	3.1	4 mi on trail	Residence Inn - Bethesda	7335 Wisconsin Av	301-718-0200	take Capital Crescent trail 4mi to Bethesda
+Lock House 6	C&O	5.4	on trail	Lock Houses 6	on trail at milepost 5.4	301-714-2233
+Lock House 10	C&O	8.8	on trail	Lock Houses 10	on trail at milepost 8.8	301-714-2233
+Great Falls	C&O	14.3	0.5 mi up	Rockwood Manor	11001 MacArthur Blvd	301-299-5026
+Lock House 22	C&O	19.6	on trail	Lock Houses 22	on trail at milepost 19.6	301-714-2233
+Whiltes Ferry	C&O	35.5	6 mi S	Best Western - Leesburg	726 E Market	703-478-1309
+Whiltes Ferry	C&O	35.5	5 mi S	Colonial Inn	19 S King St	703-777-5000
+Whiltes Ferry	C&O	35.5	5 mi S	Comfort Inn Suites - Leesburg	E Market St	
+Whiltes Ferry	C&O	35.5	6 mi S	Days Inn - Leesburg	721 E Market St	703-777-6622
+Whiltes Ferry	C&O	35.5	4.3 mi SW	Norris House Inn	108 Loudoun St SW	703-777-1806
+Dickerson	C&O	42.2	8 mi E	Pleasant Springs Farm B&B	16112 Barnesville Road	301-972-3452
+Point of Rocks	C&O	48.2	6.1 mi SW	Idyll Time Farm	43470 Evans Pond Rd	703-443-2992
+Point of Rocks	C&O	48.2	5.1 mi	Tarara Winery / B&B	13648 Tarara Lane	703-771-7100
+Lock House 28	C&O	49	on trail	Lock Houses 28	on trail at milepost 49	301-714-2233
+Brunswick	C&O	55	5 mi S	Georges Mill Farm B&B	11867 Georges Mill Rd	540-822-5224
+Brunswick	C&O	55	1.3 mi NE	Green Country Inn	620 Souder Rd	301-834-9151
+Brunswick	C&O	55	2 blocks	Lockkeepers Inn	11 S Maryland Av	301-834-6026
+Brunswick	C&O	55	3.9 mi	Lovettsville B&B	38 South Loudoun Street	540-270-6841
+Sandy Hook	C&O	60	1 mi uphill	Harpers Ferry Hostel	19123 Sandy Hook Rd	301-834-7652
+Sandy Hook	C&O	60	0.8 mi uphill	Hillside Motel	19105 Keep Tryst Rd	301-834-8144
+Harpers Ferry	C&O	60.8	0.9 mi	Angler's Inn	867 Washington St	304-535-1239
+Harpers Ferry	C&O	60.8	0.8 mi	Between the Rivers B&B	597 E Ridge St	304-535-2768
+Harpers Ferry	C&O	60.8	1.2 mi	Butler Burrel House		
+Harpers Ferry	C&O	60.8	0.8 mi	Camp Hill Bed and Breakfast	700 Washington St	304-535-2657
+Harpers Ferry	C&O	60.8	1.3 mi	Canal House Cottage	1226 Washington St	304.535.2880
+Harpers Ferry	C&O	60.8	1.2 mi	Econo Lodge	25 Union Street	304-535-6391
+Harpers Ferry	C&O	60.8	0.8 mi	Harpers Ferry Guest House	800 Washington St	304-535-2101
+Harpers Ferry	C&O	60.8	1.2 mi	Jackson Rose B&B	1167 W Washington St	304-535-1528
+Harpers Ferry	C&O	60.8	1.0 mi	Laurel Lodge	844 East Ridge Street	304-535-2886
+Harpers Ferry	C&O	60.8	2.4 mi	Quality Hotel	4328 William L. Wilson Fwy	304-535-6302
+Harpers Ferry	C&O	60.8	1.4 mi	Teahorse Hostel	1312 Washington St	304-535-6848
+Harpers Ferry	C&O	60.8	0.9 mi	The Ledge House	280 Henry Clay Street	877-468-4236
+Harpers Ferry	C&O	60.8	0.4 mi	The Town's Inn	179 High St	877-489-2447
+Shepherdstown	C&O	72.7	0.5 mi NW	Bavarian Inn	164 Shepherd Grade Road	304-876-2551
+Shepherdstown	C&O	72.7	1.6 mi W	Clarion Hotel - Shepherdstown	233 Lowe Drive	304-976-7000
+Shepherdstown	C&O	72.7	1.5 mi W	Comfort Inn - Shepherdstown	70 Maddex Square Drive	304-976-3160
+Shepherdstown	C&O	72.7	1 mi SW	Mecklenburg Inn	128 E German St	304-876-2126
+Shepherdstown	C&O	72.7	0.8 mi W	The Cottage in Shepherdstown	316 W. German St.	866-410-4482
+Shepherdstown	C&O	72.7	0.7 mi W	The Little Inn	201 W German St	304-876-2208
+Shepherdstown	C&O	72.7	1 mi SW	Thomas Shepherd Inn	300 W German St	304-876-3715
+Sharpsburg	C&O	76.6	2 mi E	Inn At Antietam	220 E Main St	301-432-6601
+Sharpsburg	C&O	76.6	2 mi E	Jacob Rohrbach Inn	138 W Main St	301-432-5079
+Sharpsburg	C&O	76.6	3.4 mi NE	Mary Hill House	211 East Main St	240-329-1969
+Williamsport	C&O	99.8	0.4 mi W	CandleLight Inn	14 N Conococheague St	301-223-7376
+Williamsport	C&O	99.8	1 mi N	Red Roof Inn - Williamsport	310 E Potomac St	301-582-3500
+Dam 5 Road	C&O	106	3.7 mi N	Breezee Hill Farm B&B	12140 St Paul Rd	301-842-2608
+Hancock	C&O	124	0.4 mi W	Americas Best Value Inn	2 Blue Hill Rd	301-678-6108
+Hancock	C&O	124	across canal	C&O Bicycle & Bunkhouse	95 Pennsylvania Av	301-678-6665
+Hancock	C&O	124	2 blocks	Riverrun B&B	7 South Taney Street	301-678-6150
+Hancock	C&O	124	0.5 mi NW	Super 8 - Hancock	118 Limestone Road	301-678-6101
+Hancock	C&O	124	1 block	The 1828 Trail In	10 West Main St	301-678-7227
+Little Orleans	C&O	140.9	pickup	Buck Valley Ranch LLC	1344 Negro Mountain Rd	717-294-3759
+Little Orleans	C&O	140.9	0.5 mi	Little Orleans Lodge	12814 Appel Rd	301-478-2102
+Little Orleans	C&O	140.9	pickup	Town Hill B&B	31101 National Pike NE	301-478-2794
+Cumberland	C&O	184	pickup	Best Western - Braddock	1268 National Hwy	301-729-3300
+Cumberland	C&O	184	8 blocks	Cumberland Inn and Spa	120 Green St	240-362-7111
+Cumberland	C&O	184	on trail	Fairfield Inn - Cumberland	21 North Wineow Street	301-722-0340
+Cumberland	C&O	184	5 blocks	Holiday Inn - Cumberland	100 S George St	301-724-8800
+Cumberland	C&O	184	Pickup	Rocky Gap Lodge	16701 Lakeview Road NE	301-784-8400
+Cumberland	C&O	184	9 blocks	The Bruce House Inn	201 Fayette Street	301-777-8860
+Cumberland	C&O	184	10 blocks	The Inn on Decatur	108 Decaur Street	240-727-7039
+Mt Savage	GAP	11.2	1 mi	Castle Bed & Breakfast	15925 Mt Savage Rd (MD36)	301-264-4645
+Frostburg	GAP	15	1 mi W	Charlies Motel & The Hurry Back Inn	220 W Main St	301-689-6557
+Frostburg	GAP	15	4 mi E	Clarysville Motel	16300 National Highway SW	301-689-9912
+Frostburg	GAP	15	2 mi SE	Days Inn - Frostburg	11100 New Georges Ck Rd (Rt 36)	301-689-2050
+Frostburg	GAP	15	4 blocks	Failinger‘s Hotel Gunter	11 W Main St	301-689-6511
+Frostburg	GAP	15	0.3 mi E	Frostburg Inn	147 E Main St	301-689-3831
+Frostburg	GAP	15	1.5 mi SE	Frostburg State University Conf & Event Center		301-687-4020
+Frostburg	GAP	15	2 mi SE	Hampton Inn - Frostburg	11200 New Georges Ck Rd (Rt 36)	301-689-1998
+Frostburg	GAP	15	11 miN will shuttle	Savage River Lodge	1600 Mt. Aetna Road	301 689 3200
+Frostburg	GAP	15	0.1 mi	Trail Inn B&B / Campground	20 Depot Street	301-689-6466
+Meyersdale	GAP	32	5 blocks	Allegheny Trail Hostel	215 Main St	814-634-0691
+Meyersdale	GAP	32	5 blocks	Donges Drive-In & Motel	Monument Sq	814-634-5710
+Meyersdale	GAP	32	1 block	Gram Gram's Place	508 Main St	814-634-0461
+Meyersdale	GAP	32	1 block	Levi Deal Mansion	301 Meyers Avenue	814-289-7600
+Meyersdale	GAP	32	on Trail	Meyersdale B&B	510 Main St	
+Meyersdale	GAP	32	4 blocks	Morguen Toole Company	130 Center Street	814-521-4359
+Meyersdale	GAP	32	9 blocks	The Burgess House	219 North Street	814-662-2436
+Meyersdale	GAP	32	5 blocks	Yoder's Motel	106 Meyers Ave	814-634-8791
+Garrett	GAP	36	4 blocks	Garrett House Bed & Breakfast	508 Church Street	814-634-7072
+Rockwood	GAP	44	11 mi N	Candlewood Cabin Rental	119 Lind Ln	814-926-4433
+Rockwood	GAP	44	6 mi	Country Dreams Bed and Breakfast	882 Chippewa Rd	814-926-4774
+Rockwood	GAP	44	11 mi will shuttle	Glades Pike Inn	2684 Glades Pike (Rt 31)	814-443-4978
+Rockwood	GAP	44	3 blocks	Hostel on Main	506 Main St	814-926-4546
+Rockwood	GAP	44	2 blocks	Husky Haven Guesthouse	440 Water Street	814-926-2024
+Rockwood	GAP	44	5 miN will shuttle	Laurel Echo Farm Vacation	174 Cross Rd	814-926-2760
+Rockwood	GAP	44	7 miNW will shuttle	Log Haven B&B	1322 Trent Rd	814-352-8971
+Rockwood	GAP	44	on trail	Rockwood Trail House B&B	131 Rockdale Rd	814-926-4778
+Rockwood	GAP	44	7 mi NW	Scenic View	118 Scenic View Lane	412-231-2979
+Rockwood	GAP	44	1 block	The Gingerbread House B&B	156 Rockdale Road	814-926-2542
+Rockwood	GAP	44	7 mi will shuttle	Trenthouse B&B and Country Store	2008 Copper Kettle Hwy	814-352-7713
+Markleton	GAP	50	1.1 mi	Four Seasons Guest Farm	450 Porter Rd	814-926-3572
+Fort Hill	GAP	54	2.7 MI	A Cottage at Campbell Farm	1723 Fort Hill Road	814-395-5335
+Harnedsville	GAP	61	0.5 mi SW	Hanna House B&B	1790 Listonburg Rd	814-395-9466
+Harnedsville	GAP	61	1.3 mi N	RiveRest Bed and Breakfast	194 Weyand St	814-395-3969
+Harnedsville	GAP	61	1.2 mi	Stepping Stone Farm B & B	140 Stepping Stone Lane	814-395-9988
+Confluence	GAP	63	2.2 mi E	Bed & Breakfast by Benyak	188 Walnut St	443-253-8706
+Confluence	GAP	63	0.4 mi E	Casselman Overlook Guest House	726 Oden Street	724 366 2503
+Confluence	GAP	63	0.6 mi NE	Cassleman Bridge Suites	115 Ross St	814-926-3357
+Confluence	GAP	63	0.5 mi E	Colonial House Bed & Breakfast	639 Oden St	814-395-3869
+Confluence	GAP	63	2.9 mi E	Hanna House B&B	1790 Listonburg Rd	814-395-9466
+Confluence	GAP	63	4.4 miS will shuttle	Hartzell House	728 Main Street	814-395-5248
+Confluence	GAP	63	2.5 mi NW	Paddler's Lane Retreat B&B	255 Paddlers Lane	814-395-9555
+Confluence	GAP	63	0.3 mi N	Parker House	213 Yough St	814-395-9616
+Confluence	GAP	63	0.3 mi E	River’s Edge Cafe & B&B	203 Yough St	814-395-5059
+Confluence	GAP	63	2.4 mi E	RiveRest Bed and Breakfast	194 Weyand St	814-395-3969
+Confluence	GAP	63		Riverview Kitchenetttes		814-395-5682
+Confluence	GAP	63	3 miNE will shuttle	Stepping Stone Farm	140 Stepping Stone Lane	814-395-9988
+Confluence	GAP	63	0.2 mi N	That Dam Yough House	615 Jacobs Street	804-350-6301
+Confluence	GAP	63	6.4 ni	The Bear Paw Cabin	187 Mae West Rd	540-882-3343
+Confluence	GAP	63	0.7 mi NW	The Confluence House B&B	522 Oden St	814-352-5778
+Confluence	GAP	63	0.5 mi NE	The House at Confluence	415 Sterner St	724-468-0058
+Confluence	GAP	63	1.6 mi	Wendy world Campground - Bunkhouse	1523 Mae West Road	724-329-4252
+Confluence	GAP	63	0.8 mi SW	Yough Treehouse	926 River Road	814-395-2001
+Ohiopyle	GAP	72	2 blocks	Falls Market and Inn	69 Main St	724-329-4973
+Ohiopyle	GAP	72	3 blocks	Ferncliff Guest House	137 Grant Street	
+Ohiopyle	GAP	72	8 blocks	Hummingbird Guest Nest of Ohiopyle	107 Blaine Street	724-329-5301
+Ohiopyle	GAP	72	3 blocks	MacKenzie Guest House	134 Grant Street	724-329-8531
+Ohiopyle	GAP	72	5 blocks	Ohiopyle Lodge	138 Grant St	724-329-4452
+Ohiopyle	GAP	72	pickup	Quiet House B&B, Cottages, and Camping	667 Elliatsville Rd	724-366-7050
+Ohiopyle	GAP	72	Trillium Lodge	PO Box 2	724 329 1000
+Ohiopyle	GAP	72	6 blocks	White Water Adventurers	6 Negley St	724-329-8850
+Ohiopyle	GAP	72	1 block	Yough Guest House	28 Serman St	
+Ohiopyle	GAP	72	1 blocks	Yough Plaza Hotel	28 Sherman St	
+Dunbar	GAP	88	2 mi W side trail	Cinderella Ice Cream Castle	33 W Railroad Street	724-603-2663
+Connellsville	GAP	90	6 blocks	Connellsville Bed & Breakfast	316 W. Crawford Avenue	724-603-2533
+Connellsville	GAP	90	2.5 miN uphill	Melody Motor Lodge	Rt 119 S	724-628-9600
+Connellsville	GAP	90	4 mi will shuttle	Seams Like Home B&B	2010 Emerald Valley Rd	724-984-1399
+Connellsville	GAP	90	7 blocks	The Greenwood House	226 S Eight Street	724-570-0566
+Connellsville	GAP	90	3.3 mi W	Victorian Rose B&B	1044 Highland St	724-628-5520
+Adelaide	GAP	94	on trail	River’s Edge Campground	1101 Rivers Edge Rd	724-628-4880
+Dawson/Dickerson Run	GAP	96	4 blocks	Cochran House B&B	Railroad and Griscom St	724-529-2736
+Dawson/Dickerson Run	GAP	96	0.5 mi NW	Dawson River Guest House		724 880-5625
+Dawson/Dickerson Run	GAP	96	4 mi NW	Linden Hall	432 Linden Hall Rd	724-529-7543
+Perryopolis	GAP	103	1.7 mi SE	Inn at Lenora's	301 S Liberty St	724-736-2509
+Smithton	GAP	110	2.2 mi W	Comfort Inn - Belle Veron	4300 State Route 51 South at PA51 near I70	724-929-3177
+Smithton	GAP	110	1.5 mi W	Fairway Inn	on PA981 near intersection of PA51 and I70	724-929-6677
+Smithton	GAP	110	1.5 mi W	Holiday Inn Belle Veron	827 Finley Rd (at PA51 near I70)	724-929-4600
+Smithton	GAP	110	1.5 mi W	Knotty Pine Motel	843 Finley Road at PA51 near I70	724-929-8430
+Smithton	GAP	110	1.5 mi W	Relax Inn	833 Finley Rd	724-929-6770
+West Newton	GAP	115	3 blocks	Bright Morning B&B	127 Jefferson Court	724-872-0792
+West Newton	GAP	115	0.8 mi	Crossing Inn	104 Robertson St	724-872-4221
+West Newton	GAP	115	5 blocks	Scarsdale Cottage Inn	208 Allison St	724-872-2121
+Buena Vista	GAP	122	1 mi W	John Butler House B&B	800 Rock Run Rd	412-751-6670
+Boston	GAP	130	on trail	Trailside Treasures	1908 Donner St	412-751-6695
+Boston	GAP	130	4 blocks	Yough Shore Inn	1403 Boston Hollow Road	412-754-0440
+Homestead	GAP	147	on trail	Courtyard - West Homestead	401 West Waterfront Drive	412-462-7301
+Pittsburgh	GAP	151	2 blocks	Hampton Inn & Suites Pittsburgh-Downtown	1247 Smallman Street	412-288-4350
+Pittsburgh	GAP	151	1 mi N	Hampton Inn University Center	3315 Hamlet St	412-681-1000
+Pittsburgh	GAP	151	1 mi N	Hilton Garden Hotel University Place	3454 Forbes Ave	412-683-2040
+Pittsburgh	GAP	151	0.7 mi	Hilton Inn - Pittsburgh - Oakland	3454 Forbes Avenue,	412-683-2040
+Pittsburgh	GAP	151	on trail	Hilton Pittsburgh and Towers	600 Commonwealth Place	412-391-4600
+Pittsburgh	GAP	151	on trail	Holiday Inn Express Pittsburgh, South Side	20 S 10th St	
+Pittsburgh	GAP	151	1 mi N	Holiday Inn Select University Center	100 Lytton Ave	412-682-6200
+Pittsburgh	GAP	151	3.7 mi N	Inn on Negley	703 S Negley Ave	412-661-0631
+Pittsburgh	GAP	151	0.6 mi SE	Morning Glory Inn	2119 Sarah St	412-431-1707
+Pittsburgh	GAP	151	5 blocks	Omni William Penn	530 William Penn Pl	412-281-7100
+Pittsburgh	GAP	151	Pittsburgh Bed and Breakfast Association		724-444-6300
+Pittsburgh	GAP	151	0.6 mi uphill	Quality Inn Oakland	3401 Blvd of Allies	412-683-6100
+Pittsburgh	GAP	151	1 block	Sheraton Hotel - Pittsburgh	300 W Station Square	412-261-2000
+Pittsburgh	GAP	151	on trail	SpringHill Suites- Pittsburgh - Southside	2950 South Water St	412-488-8003
+Pittsburgh	GAP	151	2.5 mi N	Sunnyledge Hotel	5124 Fifth Ave.	412-683-5014
+Pittsburgh	GAP	151	The Inn on Negley	703 South Negley Av	412-661-0631
+Pittsburgh	GAP	151	11 blocks	The Inn on the Mexican War Streets	604 W North Avenue	412-231-6544
+Pittsburgh	GAP	151	8 blocks	The New Parador Inn of Pittsburgh	939 Western Ave	412.231.4800
+Pittsburgh	GAP	151	2 blocks	Westin Convention Cneter	1000 Penn Av	412-281-3700
+Pittsburgh	GAP	151	Westin William Penn	530 William Penn Pl	412-281-7100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

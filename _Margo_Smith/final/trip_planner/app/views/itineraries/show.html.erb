@@ -1,0 +1,19 @@
+<table>
+  <tr>
+    <th>Day</th>
+    <th>Starting Location</th>
+    <th>Ending Location</th>
+    <th>Miles </th>
+  </tr>
+  <% (1..(@itinerary.locations.count - 1)).each do |night| #(1..@itinerary.nights).each do |night| %>
+  <tr>
+    <td><%= night %></td>
+    <td><%= @itinerary.locations[night - 1].name %></td>
+    <td><%= @itinerary.locations[night].name %></td>
+    <td><%= (@itinerary.locations[night].dist_from_DC - @itinerary.locations[night -1].dist_from_DC).abs %></td>
+  </tr>
+  <%end%>
+</table>
+
+<%= button_to "Save itinerary", itineraries_path, method: :get %>
+<%= button_to "Change itinerary options", edit_itinerary_path, method: :get %> 

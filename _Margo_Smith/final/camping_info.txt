@@ -1,0 +1,60 @@
+Trail, MP Name Dist From Tr Type Phone
+C&O 11.5	 Marsden Tract Group  Camp	 Beside trail	 Primitive	 301-767-3731
+C&O 16.6	 Swains Lock Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 26.0	 Horsepen Branch Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 30.5	 Chisel Branch Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 34.4	 Turtle Run Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 38.2	 Marble Quarry Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 42.4	 Indian Flats Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 47.6	 Calico Rocks Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 50.3	 Bald Eagle Island Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 54.0	 Brunswick Family Campground	 Beside trail	 Public developed	 301-834-8050
+C&O 59.6	 Harpers Ferry Hostel (uphill)	 0.3 mi SE	 Tents at hostel	 301-834-7652
+C&O 62.9	 Huckleberry Hill Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 69.4	 Antietam Walk-in Camp	 Beside trail	 NPS primitive	 301-739-4200
+C&O 75.3	 Killiansburg Cave Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 79.9	 Horseshoe Bend Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 82.5	 Big Woods Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 88.1	 McMahon’s Mill Campground	 On detour	 Commercial	 301-223-8778
+C&O 90.9	 Opequon Junction Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 95.2	 Cumberland Valley Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 99.4	 Yogi Bear Jellystone Ground	 3 mi SE	 Commercial	 800-421-7116
+C&O 99.4	 KOA Snug Harbor	 2.5 mi NE	 Commercial	 301-223-7571
+C&O 101.3	 Jordan Junction Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 110.0	 North Mountain Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 110.4	 McCoy’s Ferry Drive-in Camp	 0.1 mi	 NPS primitive	 301-739-4200
+C&O 112.4	 Ft Frederick State Park	 0.25 mi W	 Public developed	 301-842-2155
+C&O 116.0	 Licking Creek Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 120.4	 Little Pool Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 126.4	 White Rock Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 129.2	 Happy Hills Campground (steep)	 1 mi N	 Commercial	 301-678-7760
+C&O 129.8	 Leopards Mill Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 133.6	 Cacapon Junction Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 139.2	 Indigo Neck Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 140.8	 Little Orleans Campground	 1.5 mi W	 Commercial	 301-478-2325
+C&O 140.8	 15 Mile Ck Drive-in & grp tent	 Beside trail	 NPS primitive	 301-739-4200
+C&O 144.5	 Devils Alley Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 149.4	 Stickpile Hill Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 154.1	 Sorrel Ridge Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 156.2	 Paw Paw Walk-in Camp	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 156.9	 Purslane Run Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 162.1	 Town Creek Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 164.8	 Potomac Forks Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 169.2	 Pigmans Ferry Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 173.3	 Spring Gap Drive-in Camp	 Beside trail	 NPS primitive	 301-739-4200
+C&O 175.4	 Iron Mountain Hiker-Biker	 Beside trail	 Primitive, no cars	 301-739-4200
+C&O 180.0	 Evitts Creek Hiker-Biker (noise)	 Beside trail	 Primitive, no cars	 301-739-4200
+GAP 0	 Cumberland YMCA (train noise)	 1.1 Mile  N	 Commercial	301 777-9622
+GAP 15	 Trail Inn Campground	 Up to F’bg	 Commercial	 301-689-6466
+GAP 24	 Mason-Dixon Campground	 On detour	 Commercial	 814-634-5982
+GAP 43	 Husky Haven Campground	 Beside trail	 Commercial	 814-926-2024
+GAP 62	 Outflow Camping @ Yough Dam	 0.2 mi S	 Hiker-biker area	 814-395-3944
+GAP 62	 Paddler’s Lane Camp	 2 mi  N	 Commercial	 814-395-9555
+GAP 62	 Suder’s Family Campground	 2 mi S	 Commercial	 814-926-5396
+GAP 72	 Ohiopyle State Pk (up big hill)	 Above trail	 Public developed	 724-329-8591
+GAP 88	 Connellsville North Trailhead	 Beside trail	Primitive	 
+GAP 92	 Rivers Edge Campground	 Beside trail	 Commercial	 724-628-4880
+GAP 100	 Round Bottom Hiker Biker	 Beside trail	 Primitive, no cars	 724-872-5586
+GAP 101	 Hazelbaker’s Campground	 1 mi X river	 Commercial, primitive	 724-736-8155
+GAP 110	 Cedar Creek Hiker Biker	 Beside trail	 Primitive	 724-872-5586
+GAP 122	 Dravo's Landing Camping	 0.1 mi	 Primitive, no cars	 724-872-5586

@@ -1,0 +1,33 @@
+Trail, MP	 Town	Restaurant	Grocery	Snacks
+C&O 1	 Georgetown	 Yes	 Yes	 Yes
+C&O 3	 Fletcher's Boat House	 Bethesda (4 mi)	 Bethesda (4 mi)	 Yes
+C&O 15	 Great Falls	 No	 No	 Yes
+C&O 35	 Whites Ferry	 Leesburg (5 mi)	 Leesburg (5 mi)	 Yes
+C&O 48	 Point of Rocks	 No	 Yes	 Yes
+C&O 55	 Brunswick	 Yes	 No	 No
+C&O 60	 Sandy Hook / Harpers Ferry	 Yes	 No	 Yes
+C&O 73	 Sharpsburg / Shepherdstown	 Yes	 Yes	 Yes
+C&O 100	 Williamsport	 Yes	 Yes	 Yes
+C&O 124	 Hancock	 Yes	 Yes	 Yes
+C&O 141	 Little Orleans	 Yes	 Yes	 Yes
+C&O 156	 Paw Paw	 Yes	 Yes	 Yes
+C&O 167	 Oldtown	 No	 Yes	 Yes
+C&O 185	 Cumberland	 Yes	 Yes	 Yes
+GAP 15	 Frostburg	 Yes	 Yes	 Yes
+GAP 32	 Meyersdale	 Yes	 Yes	 Yes
+GAP 36	 Garrett	 No	 No	 Yes
+GAP 43	 Rockwood	 Yes	 Yes	 Yes
+GAP 62	 Confluence	 Yes	 Yes	 Yes
+GAP 72	 Ohiopyle	 Yes	 Yes	 Yes
+GAP 88	 Connellsville	 Yes	 Yes	 Yes
+GAP 92	 Adelaide	 No	 No	 Yes
+GAP 94	 Dawson	 Yes	 No	 Across river
+GAP 101	 Layton	 No	 No	 Across river
+GAP 110	 Cedar Creek Park	 No	 No	 Yes
+GAP 114	 West Newton	 Yes	 Yes	 Yes
+GAP 117	 Sutersville	 Yes	 No	 Yes
+GAP 120	 Buena Vista	 No	 Yes	 Yes
+GAP 128	 Boston	 Yes	 Yes	 Yes
+GAP 132	 McKeesport	 Yes	 Yes	 Yes
+TRHT	 Hazelwood	 Yes	 Yes	 Yes
+TRHT	 Pittsburgh	 Yes	 Yes	 Yes

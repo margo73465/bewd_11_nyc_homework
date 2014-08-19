@@ -1,0 +1,27 @@
+<%= form_for @itinerary do |f| %>
+<fieldset>
+  <div class='fields'>
+    <%=f.label(:name, 'Itinerary name') %>
+    <%=f.text_field :name %>
+  </div>
+  <div class='fields'>
+    <%= f.radio_button('itinerary_type', "campsite") %>
+    <%= f.label( :itinerary_type_camping, "Camping") %>
+    <%= f.radio_button('itinerary_type', "hotel") %>
+    <%= f.label( :itinerary_type_hotel, "Hotel/B&B") %>
+  </div>
+  <div class='fields'>
+    <%= f.label(:start, "Choose starting location: ") %>
+    <%= f.collection_select(:start, Location.all, :id, :name) %>
+  </div>
+  <div class='fields'>
+    <%= f.label(:end, "Choose ending location: ") %>    
+    <%= f.collection_select(:end, Location.all, :id, :name) %>
+  </div>
+  <div class='fields'>
+    <%= f.label(:nights, "Number of nights: ") %>
+    <%= f.number_field(:nights, in: 1..20, step: 1) %>
+  </div>
+</fieldset>
+<%= f.submit %>
+<%end%>

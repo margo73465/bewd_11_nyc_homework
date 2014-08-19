@@ -1,0 +1,38 @@
+Trail, MP	Business	Address	City	Phone	Bike Rent
+C&O 0	Thompson’s Boat Cntr	Rk Ck Pkwy & Va NW	DC	202-333-9543	Yes
+C&O 0	Bike the Sites	Penn. & Constitution	DC	202-966-8662	Yes
+C&O 1	Big Wheel Bikes	1034 33rd St NW	DC	202-337-0254	Yes
+C&O 1	Revolution Cycles	3411 M St NW	DC	202-965-3601	No
+C&O 3	Fletcher’s Boat Center	4940 Canal Rd	DC	202-244-0461	Yes
+C&O 55	Brunswick Hardware	302 W Potomac St	Brunswick	301-834-9207	No
+C&O 55	C&O Canal Biking	24 W Potomac St	Brunswick	301-834-5180	Yes
+C&O 60	River & Trail Outfitters	604 Valley Rd	Knoxville	301-695-5177	Yes
+C&O 61	Outfitter at Harpers Fy	189 High St	Harpers Ferry	888-535-2087	Yes
+C&O 61	River Riders	408 Allstadts Hill Rd.	Harpers Ferry	800-326-7238	Yes
+C&O 80	Reels & Wheels	17328 Taylors Lndg Rd	Sharpsburg	301-432-7281	No
+C&O 100	River City Cycles	22 N Conococheague	Williamsport	301-223-6733	 
+C&O 124	C&O Bicycle	9 S Pennsylvania Av	Hancock	301-678-6665	Yes
+C&O 185	Cycles & Things	165 N Centre St	Cumberland	301-722-5496	No
+C&O 185	Mountainside Bike Trs	108 Decatur St	Cumberland	800-459-0510	Yes
+GAP 15	Adventure Sport (24/7)	115 E Main St	Frostburg	301-689-0345	Yes
+GAP 43	Rockwood Trail House	131 Rockdale Rd	Rockwood	814-916-2453	Yes
+GAP 62	Allegheny Recumbents	P.O. Box 160	Confluence	888-395-BIKE	Yes
+GAP 62	Riversport	885 River Rd.	Confluence	800-216-6991	Yes
+GAP 72	Wilderness Voyageurs	PA381, 130 Garrett St	Ohiopyle	800-272-4141	Yes
+GAP 72	Lrl Highlands Rvr Tours	Sherman St	Ohiopyle	800-472-3846	Yes
+GAP 72	White Water Adv	Negley St	Ohiopyle	724-329-8850	Yes
+GAP 72	Ohiopyle Rec Rentals	PA381, Commercial St	Ohiopyle	800-723-8669	Yes
+GAP 72	Ohiopyle Trading Post	Negley St	Ohiopyle	724-329-1450	Yes
+GAP 88	Bikes Unlimited	503 W. Crawford Av	Connellsville	724-628-2453	Yes
+GAP 94	Youghiogheny Rentals	112 Railroad St	Dawson	724-529-2552	Yes
+GAP 110	Cedar Creek Station	Cedar Creek Park	Belle Vernon	724-872-5586	Yes
+GAP 114	West Newton Bikes	106 W Main St	W Newton	724-872-2185	Yes
+GAP 126	River City Junction	242 Sandy Dr	Greenock	412-754-0976	Yes
+GAP 128	Boston Shoppes	1903 Donner St	Boston	412-751-6695	Yes
+GAP 128	Trailside Treasures	1910 Donner St	Boston	412-896-6015	Yes
+GAP 132	Burke Lee's	2422 St David Dr	McKeesport	412-754-1490	Yes
+TRHT	Golden Triangle Bike	Beside trail at 1st Ave	Pittsburgh	412-600-0675	Yes
+TRHT	REI, Southside Works	1 block from trail	Pittsburgh	412-488-9410	No
+In Pgh	Biketek Pittsburgh	5839 Forbes Ave	Pittsburgh	412-521-6448	Yes
+In Pgh	Gatto Cycling & Fitness	7501 Penn Ave	Pittsburgh	412-731-9200	Yes
+In Pgh	Trek Bicycles	5956 Penn Circle S	Pittsburgh	412-362-8735	 
