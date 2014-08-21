@@ -5,10 +5,14 @@
   <h1>Here are your itineraries:</h1>
 
   <table>
-  <% current_user.itineraries.each do |itinerary| %>
+	  <% current_user.itineraries.each do |itinerary| %>
+	  <tr>
+		  <td><%= link_to "#{itinerary.name}", "/itineraries/#{itinerary.id}" %></td>
+		  <td><%= link_to "edit", edit_itinerary_path(itinerary.id) %></td>
+		  <td><%= link_to "delete", itinerary_path(itinerary.id), method: :delete %></td>
+		</tr>
+  	<% end %>
+	</table>
 
-  <ul><li> <%= link_to "#{itinerary.name}", "/itineraries/#{itinerary.id}" %> </li></ul>
-
-  <% end %>
 <% end %>
 <%= button_to "Create new itinerary!", new_itinerary_path, method: :get %> 

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140818150708) do
+ActiveRecord::Schema.define(version: 20140820232241) do
 
   create_table "bikeshops", force: true do |t|
     t.integer  "location_id"
@@ -48,8 +48,8 @@ ActiveRecord::Schema.define(version: 20140818150708) do
     t.integer  "user_id"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "start"
-    t.string   "end"
+    t.string   "start_location"
+    t.string   "end_location"
   end
 
   add_index "itineraries", ["user_id"], name: "index_itineraries_on_user_id"

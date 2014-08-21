@@ -11,12 +11,12 @@
     <%= f.label( :itinerary_type_hotel, "Hotel/B&B") %>
   </div>
   <div class='fields'>
-    <%= f.label(:start, "Choose starting location: ") %>
-    <%= f.collection_select(:start, Location.all, :id, :name) %>
+    <%= f.label(:start_location, "Choose starting location: ") %>
+    <%= f.collection_select(:start_location, Location.all, :id, :name) %>
   </div>
   <div class='fields'>
-    <%= f.label(:end, "Choose ending location: ") %>    
-    <%= f.collection_select(:end, Location.all, :id, :name) %>
+    <%= f.label(:end_location, "Choose ending location: ") %>    
+    <%= f.collection_select(:end_location, Location.all, :id, :name) %>
   </div>
   <div class='fields'>
     <%= f.label(:nights, "Number of nights: ") %>
