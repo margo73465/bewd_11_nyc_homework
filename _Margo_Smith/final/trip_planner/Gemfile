@@ -33,6 +33,7 @@ group :development, :test do
 #  gem 'capybara', '~>2.2.0'
 end
 
+gem 'twitter-bootstrap-rails'
 gem 'devise', '~> 3.3.0'
 
 # Use ActiveModel has_secure_password
