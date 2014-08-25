@@ -1,18 +1,33 @@
 
-<% if current_user.itineraries.empty? %>
-  <h1>You have no saved itineraries</h1>
-<% else %>
-  <h1>Here are your itineraries:</h1>
+<div class="panel panel-default">
+	<% if current_user.itineraries.empty? %>
+		<div class="panel-heading">
+	  	<h1>You have no saved itineraries</h1>
+	  </div>
+	
+	<% else %>
+		<div class="panel-heading">
+	  	<h1>Here are your itineraries:</h1>
+		</div>
 
-  <table>
-	  <% current_user.itineraries.each do |itinerary| %>
-	  <tr>
-		  <td><%= link_to "#{itinerary.name}", "/itineraries/#{itinerary.id}" %></td>
-		  <td><%= link_to "edit", edit_itinerary_path(itinerary.id) %></td>
-		  <td><%= link_to "delete", itinerary_path(itinerary.id), method: :delete %></td>
-		</tr>
-  	<% end %>
-	</table>
+		<div class="panel-body">
+			<div class="col-md-10 col-md-offset-1">
+			  <table class="table">
+				  <% current_user.itineraries.each do |itinerary| %>
+				  <tr>
+					  <td><%= link_to "#{itinerary.name}", "/itineraries/#{itinerary.id}" %></td>
+					  <td><%= link_to "edit", edit_itinerary_path(itinerary.id) %></td>
+					  <td><%= link_to "delete", itinerary_path(itinerary.id), method: :delete %></td>
+					</tr>
+			  	<% end %>
+				</table>
+			</div>
+		</div>
+	<% end %>
 
-<% end %>
-<%= button_to "Create new itinerary!", new_itinerary_path, method: :get %> 
+	<div class="panel-footer">
+		<div class="text-center">
+			<%= button_to "Create new itinerary!", new_itinerary_path, method: :get, class: "btn btn-default" %> 
+		</div>
+	</div>
+</div>

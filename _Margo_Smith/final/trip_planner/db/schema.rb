@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140820232241) do
+ActiveRecord::Schema.define(version: 20140824193909) do
 
   create_table "bikeshops", force: true do |t|
     t.integer  "location_id"
@@ -60,19 +60,19 @@ ActiveRecord::Schema.define(version: 20140820232241) do
   end
 
   create_table "locations", force: true do |t|
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.string   "name"
-    t.string   "trail"
-    t.float    "mile_marker"
-    t.float    "dist_from_DC"
-    t.string   "dist_from_trail"
-    t.string   "location_type"
-    t.string   "state"
-    t.boolean  "restaurant"
-    t.boolean  "grocery"
-    t.boolean  "snack"
-    t.string   "notes"
+    t.string  "name"
+    t.string  "trail"
+    t.float   "mile_marker"
+    t.float   "dist_from_DC"
+    t.string  "dist_from_trail"
+    t.string  "location_type"
+    t.string  "state"
+    t.boolean "restaurant"
+    t.boolean "grocery"
+    t.boolean "snack"
+    t.string  "notes"
+    t.float   "latitude"
+    t.float   "longitude"
   end
 
   create_table "lodgings", force: true do |t|

@@ -1,55 +1,63 @@
-<h1><%=@location.name%></h1>
+<div class="panel panel-defalt">
+	<div class="panel-heading">
+		<h1><%=@location.name%></h1>
+	</div>
 
-<% if !@location.lodgings.empty? %>
-	<h3> Available lodgings: </h3>
-	<table>
-	<tr>
-		<th> Name </th>
-		<th> Distance from trail </th>
-		<th> Phone number </th>
-	</tr>
-	<% @location.lodgings.each do |lodging| %>
-	<tr>
-		<td><%= lodging.name %></td>
-		<td><%= lodging.dist_from_trail %></td>
-		<td><%= lodging.phone %></td>
-	</tr>
-	<% end %>
-	</table>
-<% end %>
+	<div class="panel-body">
+		<div class="col-md-10 col-md-offset-1">
+			<% if !@location.lodgings.empty? %>
+				<h3> Available lodgings: </h3>
+				<table class = "table">
+				<tr>
+					<th> Name </th>
+					<th> Distance from trail </th>
+					<th> Phone number </th>
+				</tr>
+				<% @location.lodgings.each do |lodging| %>
+				<tr>
+					<td><%= lodging.name %></td>
+					<td><%= lodging.dist_from_trail %></td>
+					<td><%= lodging.phone %></td>
+				</tr>
+				<% end %>
+				</table>
+			<% end %>
 
-<% if !@location.campsites.empty? %>
-	<h3> Available campsites: </h3>
-	<table>
-	<tr>
-		<th> Name </th>
-		<th> Distance from trail </th>
-		<th> Phone number </th>
-	</tr>
-	<% @location.campsites.each do |campsite| %>
-	<tr>
-		<td><%= campsite.name %></td>
-		<td><%= campsite.dist_from_trail %></td>
-		<td><%= campsite.phone %></td>
-	</tr>
-	<% end %>
-	</table>
-<% end %>
+			<% if !@location.campsites.empty? %>
+				<h3> Available campsites: </h3>
+				<table class = "table">
+				<tr>
+					<th> Name </th>
+					<th> Distance from trail </th>
+					<th> Phone number </th>
+				</tr>
+				<% @location.campsites.each do |campsite| %>
+				<tr>
+					<td><%= campsite.name %></td>
+					<td><%= campsite.dist_from_trail %></td>
+					<td><%= campsite.phone %></td>
+				</tr>
+				<% end %>
+				</table>
+			<% end %>
 
-<% if !@location.bikeshops.empty? %>
-	<h3> Available bikeshops: </h3>
-	<table>
-	<tr>
-		<th> Name </th>
-		<th> Bike rental </th>
-		<th> Phone number </th>
-	</tr>
-	<% @location.bikeshops.each do |bikeshop| %>
-	<tr>
-		<td><%= link_to bikeshop.name, bikeshop.website %></td>
-		<td><%= bikeshop.bike_rental %></td>
-		<td><%= bikeshop.phone %></td>
-	</tr>
-	<% end %>
-	</table>
-<% end %>
+			<% if !@location.bikeshops.empty? %>
+				<h3> Available bikeshops: </h3>
+				<table class = "table">
+				<tr>
+					<th> Name </th>
+					<th> Bike rental </th>
+					<th> Phone number </th>
+				</tr>
+				<% @location.bikeshops.each do |bikeshop| %>
+				<tr>
+					<td><%= link_to bikeshop.name, bikeshop.website %></td>
+					<td><%= bikeshop.bike_rental %></td>
+					<td><%= bikeshop.phone %></td>
+				</tr>
+				<% end %>
+				</table>
+			<% end %>
+		</div>
+	</div>
+</div>

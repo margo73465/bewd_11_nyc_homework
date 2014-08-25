@@ -8,6 +8,11 @@ class ItinerariesController < ApplicationController
 
 	def show
 		load_itinerary
+
+		@hash = Gmaps4rails.build_markers(@itinerary.locations) do |location, marker|
+		  marker.lat location.latitude
+		  marker.lng location.longitude
+		end
 	end
 
 	def new
